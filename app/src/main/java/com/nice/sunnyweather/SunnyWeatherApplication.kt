@@ -6,7 +6,7 @@ import android.content.Context
 class SunnyWeatherApplication : Application() {
     companion object {
         lateinit var context: Context
-        const val TOKEN = "F6FpeVaXQXs9T3A9"
+        const val TOKEN = "gMEuPxCoBSUTL13h"
     }
 
     override fun onCreate() {
